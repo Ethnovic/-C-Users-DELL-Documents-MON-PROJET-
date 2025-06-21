@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+span{
+    color: yellow;
+}
+
+.border{
+    background-color: rgb(220, 207, 231);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(158, 158, 158);
+    
+} 
+
+div{
+    background-color: rgb(234, 237, 240);
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px 10px #a3b1c6 ; 
+    box-shadow: -10px -10px -10px rgb(68, 66, 62);
+}
+
